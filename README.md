@@ -23,4 +23,3 @@
  №7
 
 <img width="1353" height="517" alt="image" src="https://github.com/user-attachments/assets/01d76bb3-afca-462c-bbe3-d9b593ac4377" />
- №8
