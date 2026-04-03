@@ -1,6 +1,7 @@
 # Практическая работа №7
 
 <img width="979" height="346" alt="image" src="https://github.com/user-attachments/assets/df92b642-e1a7-4cbd-914e-65907e1a7592" />
+
  №1
 
 <img width="1362" height="473" alt="image" src="https://github.com/user-attachments/assets/0db6aa2d-60cc-462f-8a4f-99f1ce4581e5" />
